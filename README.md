@@ -1,0 +1,1 @@
+I built this calculator specifically for Schedule 1 to make it way easier for players to handle the math behind essential needs needs. Every player will need this info at some point, and this tool saves you the headache of doing it manually.
