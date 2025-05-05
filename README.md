@@ -6,4 +6,4 @@ DISCLAIMER: This application does not interact with or modify any system process
 
 ![image (10)](https://github.com/user-attachments/assets/ebe96855-f70a-4e34-8d22-fb6a3838f914)
 ![image (8)](https://github.com/user-attachments/assets/191d45ec-deea-4e32-808e-04b06a2aeb73)
-![image (9)](https://github.com/user-attachments/assets/ee9fee9c-9c4e-423b-9d23-8c088d77c0ac)
+![image (11)](https://github.com/user-attachments/assets/0bee08cc-810a-4cd2-9c8d-71dd328c0743)
