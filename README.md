@@ -1,3 +1,5 @@
+Download here https://github.com/CarDoor55/CartersSchedule1Calculator/releases/tag/1.0.0-alpha
+
 I built this calculator specifically for Schedule 1 to make it way easier for players to handle the math behind essential needs needs. Every player will need this info at some point, and this tool saves you the headache of doing it manually.
 
 I know random EXE files look sketchy so If you think it's a virus, (which it's not) you can scan it over on https://www.virustotal.com/gui/home/upload before you open it.
